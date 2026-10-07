@@ -1,9 +1,14 @@
 PUBLICATIONS
-•	William Mylott, Diego Cortes, Weiwei Yuan, “eBook: The Current Bioanalytical Landscape for Biosimilars,” Bioanalysis, 18 Nov 2024
-•	Laixin Wang, Weiwei Yuan, Scott Reuschel and Min Meng, “Hydrolysis (Acidic or Enzymatic) of Phase II Conjugates for LC-MS Bioanalysis of Total Parent Drugs” in “Handbook of LC-MS Bioanalysis: Best Practices, Experimental Protocols, and Regulations”.  Editors: Wenkui Li, Jie Zhang and Francis LS Tse, John Wiley & Sons, New Jersey. ISBN: 978-1-118-15924-8. October 2013
-•	Susan Meier-Davis, Min Meng, Weiwei Yuan, Lisa Diehl, Fatima Arjmand, Rebecca Lucke, Betsy Huang, Jianye Wen, Jutaro Shudo, Tetsuto Nagata. “Dried Blood Spot Analysis of Donepezil in Support of a GLP Three-month Dose-Range Finding Study in Rats”, International Journal of Toxicology. July/August 2012, vol. 31, no. 4337-4347.
-•	Yuan Weiwei, Yang Jiyuan, Kopečkovǎ Pavla and Kopeček Jindrich. Smart Hydrogels Containing Adenylate Kinase: Translating Substrate Recognition into Macroscopic Motion, J. Am. Chem. Soc., 2008, 130(47), pp 15760-16761.
-•	Ying Li, Jing-Lei Shuang, Wei-Wei Yuan, Wu-Yang Huang and Ren-Xiang Tan. Verticase: a Fibrinolytic Enzyme Produced by Verticillium sp. Tj33, an Endophyte of Trachelospermum jasminoides, J. Integr. Plant Biol., 2007, 49 (11): 1548-1554.
+
+(01) William Mylott, Diego Cortes, Weiwei Yuan, “eBook: The Current Bioanalytical Landscape for Biosimilars,” Bioanalysis, 18 Nov 2024
+
+(02)Laixin Wang, Weiwei Yuan, Scott Reuschel and Min Meng, “Hydrolysis (Acidic or Enzymatic) of Phase II Conjugates for LC-MS Bioanalysis of Total Parent Drugs” in “Handbook of LC-MS Bioanalysis: Best Practices, Experimental Protocols, and Regulations”.  Editors: Wenkui Li, Jie Zhang and Francis LS Tse, John Wiley & Sons, New Jersey. ISBN: 978-1-118-15924-8. October 2013
+
+(03) Susan Meier-Davis, Min Meng, Weiwei Yuan, Lisa Diehl, Fatima Arjmand, Rebecca Lucke, Betsy Huang, Jianye Wen, Jutaro Shudo, Tetsuto Nagata. “Dried Blood Spot Analysis of Donepezil in Support of a GLP Three-month Dose-Range Finding Study in Rats”, International Journal of Toxicology. July/August 2012, vol. 31, no. 4337-4347.
+
+(04) Yuan Weiwei, Yang Jiyuan, Kopečkovǎ Pavla and Kopeček Jindrich. Smart Hydrogels Containing Adenylate Kinase: Translating Substrate Recognition into Macroscopic Motion, J. Am. Chem. Soc., 2008, 130(47), pp 15760-16761.
+
+(05) Ying Li, Jing-Lei Shuang, Wei-Wei Yuan, Wu-Yang Huang and Ren-Xiang Tan. Verticase: a Fibrinolytic Enzyme Produced by Verticillium sp. Tj33, an Endophyte of Trachelospermum jasminoides, J. Integr. Plant Biol., 2007, 49 (11): 1548-1554.
 
 PRESENTATIONS
 •	Weiwei Yuan, Thomas Oglesby, “A high-throughput, sensitive assay for the simultaneous quantification of Urinary Leukotriene E4, tetranor-PGDM, and tetranor-PGEM using online SPE-LC-MS/MS”, 15th WRIB (Workshop on Recent Issues in Bioanalysis, Sep 27 – Oct 1, 2021, USA. 
