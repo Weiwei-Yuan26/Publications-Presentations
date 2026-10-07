@@ -1,4 +1,4 @@
-PUBLICATIONS
+## PUBLICATIONS
 
 (01) William Mylott, Diego Cortes, Weiwei Yuan, “eBook: The Current Bioanalytical Landscape for Biosimilars,” Bioanalysis, 18 Nov 2024
 
@@ -10,7 +10,7 @@ PUBLICATIONS
 
 (05) Ying Li, Jing-Lei Shuang, Wei-Wei Yuan, Wu-Yang Huang and Ren-Xiang Tan. Verticase: a Fibrinolytic Enzyme Produced by Verticillium sp. Tj33, an Endophyte of Trachelospermum jasminoides, J. Integr. Plant Biol., 2007, 49 (11): 1548-1554.
 
-PRESENTATIONS
+## PRESENTATIONS
 
 (01) Weiwei Yuan, Thomas Oglesby, “A high-throughput, sensitive assay for the simultaneous quantification of Urinary Leukotriene E4, tetranor-PGDM, and tetranor-PGEM using online SPE-LC-MS/MS”, 15th WRIB (Workshop on Recent Issues in Bioanalysis, Sep 27 – Oct 1, 2021, USA. 
 •	Weiwei Yuan, Laixin Wang, Camille Enriquez, Min Meng, Jessica Wang, Kevin Cook and Patrick Bennett, “Quantitation of Oligonucleotides in Human Plasma Using Q-Exactive Orbitrap High Resolution MS”, ASMS Annual Meeting, May 20 - 24, 2012, Vancouver, BC, Canada. 
