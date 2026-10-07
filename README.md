@@ -2,7 +2,7 @@ PUBLICATIONS
 
 (01) William Mylott, Diego Cortes, Weiwei Yuan, “eBook: The Current Bioanalytical Landscape for Biosimilars,” Bioanalysis, 18 Nov 2024
 
-(02)Laixin Wang, Weiwei Yuan, Scott Reuschel and Min Meng, “Hydrolysis (Acidic or Enzymatic) of Phase II Conjugates for LC-MS Bioanalysis of Total Parent Drugs” in “Handbook of LC-MS Bioanalysis: Best Practices, Experimental Protocols, and Regulations”.  Editors: Wenkui Li, Jie Zhang and Francis LS Tse, John Wiley & Sons, New Jersey. ISBN: 978-1-118-15924-8. October 2013
+(02) Laixin Wang, Weiwei Yuan, Scott Reuschel and Min Meng, “Hydrolysis (Acidic or Enzymatic) of Phase II Conjugates for LC-MS Bioanalysis of Total Parent Drugs” in “Handbook of LC-MS Bioanalysis: Best Practices, Experimental Protocols, and Regulations”.  Editors: Wenkui Li, Jie Zhang and Francis LS Tse, John Wiley & Sons, New Jersey. ISBN: 978-1-118-15924-8. October 2013
 
 (03) Susan Meier-Davis, Min Meng, Weiwei Yuan, Lisa Diehl, Fatima Arjmand, Rebecca Lucke, Betsy Huang, Jianye Wen, Jutaro Shudo, Tetsuto Nagata. “Dried Blood Spot Analysis of Donepezil in Support of a GLP Three-month Dose-Range Finding Study in Rats”, International Journal of Toxicology. July/August 2012, vol. 31, no. 4337-4347.
 
@@ -11,7 +11,7 @@ PUBLICATIONS
 (05) Ying Li, Jing-Lei Shuang, Wei-Wei Yuan, Wu-Yang Huang and Ren-Xiang Tan. Verticase: a Fibrinolytic Enzyme Produced by Verticillium sp. Tj33, an Endophyte of Trachelospermum jasminoides, J. Integr. Plant Biol., 2007, 49 (11): 1548-1554.
 
 PRESENTATIONS
-•	Weiwei Yuan, Thomas Oglesby, “A high-throughput, sensitive assay for the simultaneous quantification of Urinary Leukotriene E4, tetranor-PGDM, and tetranor-PGEM using online SPE-LC-MS/MS”, 15th WRIB (Workshop on Recent Issues in Bioanalysis, Sep 27 – Oct 1, 2021, USA. 
+(01) Weiwei Yuan, Thomas Oglesby, “A high-throughput, sensitive assay for the simultaneous quantification of Urinary Leukotriene E4, tetranor-PGDM, and tetranor-PGEM using online SPE-LC-MS/MS”, 15th WRIB (Workshop on Recent Issues in Bioanalysis, Sep 27 – Oct 1, 2021, USA. 
 •	Weiwei Yuan, Laixin Wang, Camille Enriquez, Min Meng, Jessica Wang, Kevin Cook and Patrick Bennett, “Quantitation of Oligonucleotides in Human Plasma Using Q-Exactive Orbitrap High Resolution MS”, ASMS Annual Meeting, May 20 - 24, 2012, Vancouver, BC, Canada. 
 •	Weiwei Yuan, Juan Wang, Jesse Kolstad, Scott Reuschel and Min Meng (Tandem Labs) as well as Fatima Arjmand and Susan Meier-Davis (Teikoku Pharma USA, Inc, San Jose, CA), “Quantitatition of Donepezil in Rat Dried Blood Spots by LC-MS/MS: Method Development, Validation and GLP Toxicokinetic Sample Analysis”, ASMS Annual Meeting, May 20 - 24, 2012, Vancouver, BC, Canada.
 •	Weiwei Yuan, Laixin Wang, Yao Shi, Toni Pollock, Scott Reuschel and Min Meng (Tandem Labs) as well as Lynn Chevrette, Lihong Gao (Cubist Pharmaceuticals, Inc., Lexington, MA), “Simultaneous Quantitation of Polymyxin PMB1, PMB1-1 and PMB2 in Human Urine Using LC-MS/MS”, AAPS Annual Meeting and Exposition, October 23-27, 2011, Washington, D. C.
